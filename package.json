@@ -16,7 +16,7 @@
     "url": "https://github.com/bekk/remark/issues"
   },
   "homepage": "https://github.com/bekk/remark",
-  "dependencies": {
+  "devDependencies": {
     "less": "^1.3.0"
   }
 }
