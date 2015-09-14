@@ -11,7 +11,7 @@ npm install bekk/remark
 
 ```html
 <link href="node_modules/remark-bekk/dist/bekk.css" type="text/css" rel="stylesheet">
-<script src="node_modules/remark-bekk/vendor/remark-0.11.0.min.js" type="text/javascript"></script>
+<script src="node_modules/remark-bekk/vendor/remark.min.js" type="text/javascript"></script>
 <script type="text/javascript">
   var slideshow = remark.create({
     ratio: '16:9',
